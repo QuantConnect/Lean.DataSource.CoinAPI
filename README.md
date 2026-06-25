@@ -51,9 +51,6 @@ git clone https://github.com/your-username/Lean.DataSource.CoinAPI.git
 ### Price Plan
 For detailed information on CoinAPI's pricing plans, please refer to the [CoinAPI Pricing](https://www.coinapi.io/market-data-api/pricing) page.
 
-### Documentation
-Refer to the [documentation](https://www.quantconnect.com/docs/v2/lean-cli/datasets/coinapi) for detailed information on the library's functions, parameters, and usage examples.
-
 ### License
 This project is licensed under the MIT License - see the [LICENSE](#) file for details.
 
